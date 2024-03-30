@@ -1,0 +1,35 @@
+Print "Quadratic Equation or Cubic Equation (Q or C)"
+Read user response as input
+ If response is 'Q' (quadratic equation), then:
+    Print "a"
+    Read a as input
+    Print "b"
+    Read b as input
+    Print "c"
+    Read c as input
+    Calculate discriminant
+    If discriminant is positive, then:
+        Calculate roots using quadratic formula
+        Print the roots
+    If discriminant is zero, then:
+        Calculate root using quadratic formula
+        Print the root
+    If discriminant is negative, then:
+        Print "No real roots"
+If response is 'C' (cubic equation), then:
+    Print "a"
+    Read a as input
+    Print "b"
+    Read b as input
+    Print "c"
+    Read c as input
+    Print "d"
+    Read d as input
+    Initialize variable i to 1
+    Repeat until i is less than or equal to 10:
+        Calculate value of the cubic equation at i
+        If calculation is zero, then:
+            Print "Root found: x = i"
+        Increment i by 1
+If response is neither 'Q' nor 'C', then:
+    Print "Invalid input"

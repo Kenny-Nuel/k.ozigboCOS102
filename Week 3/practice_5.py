@@ -1,0 +1,19 @@
+# Returns false as game_1 is not to game_2
+game_1 = 2
+game_2 = 4
+print(bool(game_1 == game_2))
+
+# Or
+print(game_1 == game_2)
+
+# Returns false as vol is None
+val = None
+print(bool(val))
+
+# Returns false as num is an empty sequence
+num = ()
+print(bool(num))
+
+# Returns true as age is boolean
+age = False
+print(bool(age))

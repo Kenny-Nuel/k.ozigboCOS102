@@ -1,0 +1,13 @@
+CASE STUDY: Facebook's EMOTIONAL CONTAGION experiment
+
+In 2014, it was reported that Facebook conducted an experiment to observe emotional contagion.
+- Emotional contagion is the unintentional transfer of feelings to others, sometimes subconsciously (Wikipedia)
+
+What was the ethical problem ?
+- Well, Facebook did not collect consent for the test they conducted on their users. They changed the feed that appears on the users feed.
+- They changed their algorithm to show either positive or negative feeds and show the users either positive or negative feeds
+
+Facebook violated several ethics, including:
+1. Not asking user for consent when changing their algorithms design
+2. Disrespecting the privacy of their users after they had gained the trust of the app
+3. Impacted the psychology of their users 
